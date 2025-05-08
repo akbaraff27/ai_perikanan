@@ -1,0 +1,36 @@
+No,Pertanyaan dan jawaban
+1. ,Definisi sistem informasi geografis?
+,"Sistem informasi yang didasarkan pada kerja pada kerja komputer yang memasukan, mengelola, memanipulasi, dan menganalisis data fenomena geografis serta memberi informasi "
+2. ,Apa pemanfaatan SIG
+,"1. Inventarisasi SDA
+2. memberi informasi iklim/cuaca
+3. informasi lokasi
+4. informasi bencana
+5. perencanaan pembangunan wilayah "
+3. ,Kelebihan SIG?
+,"1. sudah standar
+2. database digital
+3. lebih cepat karena sudah dalam database komputer
+4. sangat cepat "
+4. ,Apa komponen SIG?
+,"1. data 
+2. perangkat lunak dan keras
+3. pelaksana
+4. prosedur "
+5.,proses SIG?
+,"Pengumpulan data, sumber data, memasukan data, pengelola data, retrieval data, analisis, penyampaian informasi, user pengguna, dan aksi"
+6. ,sebutkan jenis data SIG?
+,"data spasial, data SIG, dan data tabular/atribut "
+7. ,data spasial adalah
+,data yang mempunyai geometri dan berapa dapa suatu lokasi 
+8. ,data tabular adalah..
+,data deskriptif yang menjelaskan kemampuan suatu objek spesial
+9. ,data SIG adalah..
+,data yang memberikan informasi tentang lokasi dan bentuk dari fitur geografis termasuk hubunga antar fitur serta deskripsi dari fitur  geografis tersebut 
+10.,definisi data raster?
+,data yang disajikan secara sekuensional pada kolom dan baris dalam bentuk sel sel atau yang dikenal dengan piksel
+11.,definisi data vektor?
+,data spesial yang berstatus pada sistem koordinat yang umum digunakan untuk menyajikan fitur peta
+12. ,representasi data vektor adalah
+,"- points ( titik, Ling ( garis), dan polygan"
+,"Rohmat, 2023. Sistem Informasi Geografis (SIG)"
