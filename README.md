@@ -1,0 +1,4 @@
+.env 
+# OPENAI_API_KEY=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
+# tavilyapi_key=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
+# groqapi_key=xai-dJwGtDUzlgkqxnKd5hKNdGKexQLLY38Fwc7LtI8rXNUxM6YMoSGlbpAFr4VDTRjI1F7tHuhwi7dVMF6p
